@@ -6,19 +6,19 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 
 [![Get string session](https://repl.it/badge/github/Sur-vivor/CatUserbot)](https://generatestringsession.sarathsurvivor.repl.run/)
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sur-vivor/CatUserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zyruz-cat/ramu-cat)
 <p align="center">
-  <a href="https://github.com/Sur-vivor/CatUserbot/fork">
-    <img src="https://img.shields.io/github/forks/Sur-vivor/CatUserbot?label=Fork&style=social">
+  <a href="https://github.com/https://github.com/Zyruz-cat/ramu-cat.git/fork">
+    <img src="https://img.shields.io/github/forks/https:/Zyruz-cat/ramu-cat?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Sur-vivor/CatUserbot">
-    <img src="https://img.shields.io/github/stars/Sur-vivor/CatUserbot?style=social">
+  <a href="https://github.com/Zyruz-cat/ramu-cat">
+    <img src="https://img.shields.io/github/stars/Zyruz-cat/ramu-cat?style=social">
   </a>
 </p>
 
 
-[![catuserbot logo](https://telegra.ph/file/7e1e89621fabbf02596f8.jpg)](https://heroku.com/deploy?template=https://github.com/Sur-vivor/CatUserbot)
+[![catuserbot logo](https://telegra.ph/file/7e1e89621fabbf02596f8.jpg)](https://heroku.com/deploy?template=https://github.com/Zyruz-cat/ramu-cat)
 
 
 ### Join [here](https://t.me/catuserbot17) for updates and tuts and [here](https://t.me/catuserbot_support) for discussion and bugs
